@@ -11,7 +11,7 @@ The dataset, sourced from Kaggle.
 
 
 
-
+## Screenshots
 
 
 ![dashboard-2 Coffeeshop](https://github.com/user-attachments/assets/fc26eaf6-8efd-4731-8a94-dad976f75793)
@@ -24,4 +24,3 @@ To use the Coffee shop Sales Analysis Dashboard, follow these steps:
 2.	Download Dataset: Download the dataset from the link provided in the Dataset section.
 3.	Clone or Download this Repository: Clone or download this repository to your local machine.
 4.	Open Dashboard: Open the dashboard report file (coffee shop-dashboard.xlsx) in Excel to access & explore the interactive dashboard's features.
-
